@@ -1,0 +1,7 @@
+addSbtPlugin("com.typesafe.play" % "sbt-plugin" % "2.8.1")
+addSbtPlugin("org.foundweekends.giter8" % "sbt-giter8-scaffold" % "0.11.0")
+addSbtPlugin("ch.epfl.scala"    % "sbt-bloop"                 % "1.3.5")
+addSbtPlugin("com.geirsson"     % "sbt-ci-release"            % "1.5.3")
+addSbtPlugin("com.github.cb372" % "sbt-explicit-dependencies" % "0.2.13")
+addSbtPlugin("org.scalameta"    % "sbt-scalafmt"              % "2.3.4")
+addSbtPlugin("org.scalameta"    % "sbt-mdoc"                  % "2.2.0")
